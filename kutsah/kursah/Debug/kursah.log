@@ -1,0 +1,7 @@
+﻿  car.cpp
+  MyForm.cpp
+  Создание кода...
+e:\kutsah\kursah\car.cpp(54): warning C4715: Car::bill: значение возвращается не при всех путях выполнения
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  car.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursah.vcxproj -> E:\kutsah\Debug\kursah.exe
